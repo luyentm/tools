@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - tools',
-    title: 'tools',
+    titleTemplate: 'Luyen Tran Tools',
+    title: 'Luyen Tran Tools',
     htmlAttrs: {
       lang: 'en'
     },
@@ -49,7 +49,7 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
-      dark: true,
+      dark: false,
       themes: {
         dark: {
           primary: colors.blue.darken2,
