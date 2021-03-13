@@ -39,12 +39,12 @@ export default {
         },
         {
           icon: "mdi-chart-bubble",
-          title: "Inspire",
-          to: "/inspire"
+          title: "Cookie",
+          to: "/cookie"
         }
       ],
       rightDrawer: false,
-      title: "Vuetify.js"
+      title: "Luyentm Tools"
     };
   }
 };
